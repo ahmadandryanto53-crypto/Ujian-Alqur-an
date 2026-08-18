@@ -1,0 +1,6 @@
+{
+  "name": "Ujian Hafalan Al-Qur'an 30 Juz",
+  "description": "Aplikasi penguji tahfidz Al-Qur'an 30 Juz otomatis bertenaga AI dengan pemilihan rentang juz, jumlah butir soal acak, kunci jawaban sambung ayat, audio tilawah, dan lembar penilaian penguji.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
